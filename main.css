@@ -1,0 +1,48 @@
+.btn {
+	padding:5px 10px;
+	border-radius:10px;
+	font-size:15px;
+	cursor:pointer;
+	margin:5px;
+}
+
+#taro:hover {
+	background-color:rgb(255, 128,255);
+	color:white;
+}
+#matcha:hover {
+	background-color:rgb(50, 205, 50);
+	color:white;
+}
+#redbean:hover {
+	background-color:rgb(178, 50, 50);
+	color:white;
+}
+#sesame:hover {
+	background-color:rgb(220, 220, 220);
+	color:black;
+}
+#corn:hover {
+	background-color:rgb(251, 236, 93);
+	color:black;
+}
+#thai:hover {
+	background-color:rgb(255, 103, 0);
+	color:white;
+}
+#blueberry:hover {
+	background-color:rgb(70, 6, 188);
+	color:white;
+}
+#hazel:hover {
+	background-color:rgb(207, 176, 149);
+	color:white;
+}
+#chocolate:hover {
+	background-color:rgb(123, 63, 0);
+	color:white;
+}
+#pistachio:hover {
+	background-color:rgb(106, 165, 68);
+	color:white;
+}
